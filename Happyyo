@@ -29,16 +29,16 @@
     text-decoration:none;
     background:#FBF9F5;
     border:1px solid rgba(0,0,0,0.06);
-    border-radius:26px;
+    border-radius:12px;
     padding:0 20px;
     color:#20303E;
     box-shadow:0 6px 14px rgba(0,0,0,0.16);
   }
   a.btn:active{ transform:scale(0.98); }
-  .b-instagram{ top:39.5%; height:5.1%; }
-  .b-tiktok{ top:45.9%; height:5.1%; }
-  .b-dovesiamo{ top:52.3%; height:5.1%; }
-  .b-chiamaci{ top:58.7%; height:5.1%; }
+  .b-instagram{ top:38.5%; height:4.6%; }
+  .b-tiktok{ top:44.1%; height:4.6%; }
+  .b-dovesiamo{ top:49.7%; height:4.6%; }
+  .b-chiamaci{ top:55.3%; height:4.6%; }
 
   .icon-circle{
     width:26px;
